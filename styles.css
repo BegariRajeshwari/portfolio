@@ -212,22 +212,6 @@ nav {
   border-radius: 100%;
 }
 
-.about__bg-1,
-.about__bg-2 {
-  position: absolute;
-  max-width: 150px;
-  z-index: -1;
-}
-
-.about__bg-1 {
-  top: 0;
-  left: 0;
-}
-
-.about__bg-2 {
-  right: 0;
-  bottom: 0;
-}
 
 .about__content {
   text-align: center;
